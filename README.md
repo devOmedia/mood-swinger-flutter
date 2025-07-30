@@ -10,5 +10,3 @@ An interactive Flutter animation showcasing fluid emotion transitions with custo
 - Interactive slider control
 
 Built with Flutter and love ❤️
-
-[Get the code →](https://github.com/Mani821/mood-swings)
